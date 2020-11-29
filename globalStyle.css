@@ -1,0 +1,19 @@
+html{
+	scroll-behavior: smooth;
+}
+
+.scrollTop{
+	position: fixed;
+	width: 50px;
+	height: 50px;
+	color: #1f52a3;
+	bottom: 40px;
+	right: 50px;
+	text-decoration: none;
+	text-align: center;
+	line-height: 50px;
+	background: #FFDC00;
+	font-size: 22px;
+	border-radius: 50px;
+	display:none;
+}
